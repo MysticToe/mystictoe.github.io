@@ -18,7 +18,7 @@ function createMagicDust(x, y) {
 
         document.body.appendChild(dust);
 
-        setTimeout(() => dust.remove(), 300);
+        setTimeout(() => dust.remove(), 200);
     }
 }
 
