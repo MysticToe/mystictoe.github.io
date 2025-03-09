@@ -1,6 +1,6 @@
 {
-  "short_name": "Mystic Toe",
-  "name": "Mystic Toe",
+  "short_name": "Mysic Toe",
+  "name": "A fun tic-tac-toe game with magical mystery vibe.",
   "icons": [
     {
       "src": "favicon.ico",
